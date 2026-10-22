@@ -1,10 +1,5 @@
 # Hi, I'm Michal Lemczyk
 
-<!-- One or two lines about your work: role, the kind of software you build,
-     what you're looking for. For example:
-     "Software developer working on <area>. I like problems where software
-      meets hardware and measurement." -->
-
 These are hobby projects where software meets hardware: I play bass, do
 astrophotography, and build tools, firmware and measurement rigs around both.
 Much of the recent work is AI-assisted: I set the goals, the acceptance checks
