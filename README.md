@@ -1,4 +1,4 @@
-# Hi, I'm Mike
+# Hi,
 
 These are hobby projects where software meets hardware: I play bass, do
 astrophotography, and build tools, firmware and measurement rigs around both.
