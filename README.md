@@ -5,7 +5,7 @@
      "Software developer working on <area>. I like problems where software
       meets hardware and measurement." -->
 
-These are hobby projects where software meets hardware: I play bass and do
+These are hobby projects where software meets hardware: I play bass, do
 astrophotography, and build tools, firmware and measurement rigs around both.
 Much of the recent work is AI-assisted: I set the goals, the acceptance checks
 and the design calls, and build with [Claude Code](https://claude.com/claude-code),
