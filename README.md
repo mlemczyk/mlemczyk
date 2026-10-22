@@ -1,4 +1,4 @@
-# Hi, I'm Michal Lemczyk
+# Hi, I'm Mike
 
 These are hobby projects where software meets hardware: I play bass, do
 astrophotography, and build tools, firmware and measurement rigs around both.
