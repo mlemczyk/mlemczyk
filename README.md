@@ -1,5 +1,3 @@
-# Hi,
-
 These are hobby projects where software meets hardware: I play bass, do
 astrophotography, and build tools, firmware and measurement rigs around both.
 Much of the recent work is AI-assisted: I set the goals, the acceptance checks
