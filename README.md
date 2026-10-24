@@ -1,3 +1,6 @@
+I'm a Technical Product Owner and software architect (identity and access
+management, fintech). [LinkedIn](https://linkedin.com/in/michal-lemczyk)
+
 These are hobby projects where software meets hardware: I play bass, do
 astrophotography, and build tools, firmware and measurement rigs around both.
 Much of the recent work is AI-assisted: I set the goals, the acceptance checks
@@ -17,6 +20,9 @@ with every change verified against real data or real hardware.
 
 ## How I work
 
+- **Find the real problem before fixing it.** The CGE's stock electronics used
+  the motor cable shields as ground, a known cause of runaways. I didn't patch
+  around it: in the conversion, each motor has its own dedicated ground.
 - **Verify, don't assume.** Moving or rewriting code means proving the output
   didn't change: the Guitar Pro tools were checked tab by tab against a
   1,551-tab library, and the backing-track injector against 272 files Guitar
